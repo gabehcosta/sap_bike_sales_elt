@@ -1,3 +1,11 @@
 .venv/
-.env
 .vscode/
+
+.env
+
+*__pycache__/
+
+airflow/logs/
+airflow/config/
+airflow/plugins/
+minio/data/staging
